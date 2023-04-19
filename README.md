@@ -1,7 +1,3 @@
-# YourPersona
-Create the online you, want to share your media profiles and favourite content to anyone with ease, then here is the place for you. YourPersona is you're online life! Keep the private private and the public connected.
-
-
 <!--Coding from home gif-->
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2ZiY2Y0MzgxY2VmYjZlNGQ5MmE2YzM1ZWNiZWI3ZTI4Yjk0YTMxNCZjdD1n/1TOGLF8q43USj5i8rw/giphy.gif"/>
@@ -15,9 +11,8 @@ Create the online you, want to share your media profiles and favourite content t
 
 ---
 
-### YourPersona:
-
-Hey there, welcome to YourPersoners github page. here is a slight description and somethings about the people running it.
+# YourPersona
+Create the online you, want to share your media profiles and favourite content to anyone with ease, then here is the place for you. YourPersona is you're online life! Keep the private private and the public connected.
 
 ### About YourPersona:
 
